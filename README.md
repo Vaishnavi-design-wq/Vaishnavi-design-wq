@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...learning the fundementals of python and logic
 - 🌱 I’m currently learning ...data types,loops,and how AI models are bulit
 - 🤔 I’m looking for help with ...understanding complex algorithms for engineering entrance exam
-- 💬 Ask me about ...moon photography or why RCB is the best cricket team & and anything aboutb a volleyball!!
+- 💬 Ask me about ...moon photography or why RCB is the best cricket team!!
 - 📫 How to reach me: ...thorugh email:vaishkashyap8@gmail.com
