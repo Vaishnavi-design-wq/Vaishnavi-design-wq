@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## aspiring AI Engineer
-i am 11th -grade student starting my journey in matgematics,physics,and chemistry. i am passionate about **artificial intelligence**
+i am 11th -grade student starting my journey in mathematics,physics,and chemistry. i am passionate about **artificial intelligence**
 and buliding a future tech.
 **Vaishnavi-design-wq/Vaishnavi-design-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
